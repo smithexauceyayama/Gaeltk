@@ -62,3 +62,8 @@ p {
   text-decoration: none;
   font-weight: bold;
 }
+footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #888;
+}
